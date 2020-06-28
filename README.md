@@ -5,7 +5,7 @@ Visualizing Amazon Review Data for Business User - Video Games category
 
 This Data Visualisation project was a part of a Mid-Term assignment for coursework 'SMM 635 Data Visualisation' for my course MSc in Business Analytics at Cass Business School. The project had been submitted on **November 11, 2019,** and is my first project in Python. \
 \
-This project aims to visualise Amazon review data for Video Game Category that has been compiled by Jianmo Ni. The data consist of amazon website reviews from 1998 - 2018. The objective is to explore and present the finding of the data in just 4 charts considering *business audience*. Advanced visualisation techniques have not been used for this project considering business audience and the visualisation principles are based on Cairo's visualisation wheel.
+This project aims to visualise Amazon review data for Video Game Category that has been compiled by Jianmo Ni. The data consist of amazon website reviews from 1998 - 2018. The objective is to explore and present the finding of the data in just 4 charts considering  ***business audience***. Advanced visualisation techniques have not been used for this project considering business audience and the visualisation principles are based on Cairo's visualisation wheel.
 
 ## Data
 
