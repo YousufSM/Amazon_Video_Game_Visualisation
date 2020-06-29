@@ -5,7 +5,7 @@ Visualizing Amazon.com review data for business user - Video Games category
 
 This Data Visualisation project was a part of a Mid-Term assignment for coursework 'SMM 635 Data Visualisation' for my course MSc in Business Analytics at Cass Business School. The project had been submitted on **November 11, 2019,** and is my first project in Python. \
 \
-This project aims to visualise Amazon review data for Video Game Category that has been compiled by Jianmo Ni. The data consist of amazon website reviews from 1998 - 2018. The objective is to explore and present the finding of the data in just 4 charts considering  ***business audience***. Advanced visualisation techniques have not been used for this project considering business audience and the visualisation principles are based on Cairo's visualisation wheel.
+This project aims to visualise Amazon review data for Video Game Category that has been compiled by Jianmo Ni. The data consist of amazon website reviews from 1998 - 2018. The objective is to explore and present the finding of the data in just 4 charts considering the ***business audience***. Advanced visualisation techniques have not been used for this project considering the business audience and the visualisation principles are based on Cairo's visualisation wheel.
 
 ## Data
 
@@ -14,7 +14,7 @@ Ni, J., Li, J. and Mcauley, J. (n.d.). Justifying Recommendations using Distantl
 **Link**: http://deepyeti.ucsd.edu/jianmo/amazon/index.html\
 
 ## Visualisation
-Since there was a limitation of 4 charts, the focus was to present multi-dimensions of the data along with keeping the charts as simple as possible considering business users. The attention is on functionality and on aiming the familiarity of the charts for the audience. \
+Since there was a limitation of 4 charts, the focus was to present multi-dimensions of the data along with keeping the charts as simple as possible considering the business users. The attention is on functionality and on aiming the familiarity of the charts for the audience. \
 \
 **Figure 1** explores 4 dimensions of the data i.e. Total review and market share by each Product Type and Product Brand\
 \
