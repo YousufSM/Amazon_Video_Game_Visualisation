@@ -26,4 +26,4 @@ Since there was a limitation of 4 charts, the focus was to present multi-dimensi
 \
 \
 \
-Note: Since the project was a group work, I have only included my work with due academic permission.
+Note: Since the project was a group work, I have only included my part of the project with due academic permission.
